@@ -30,7 +30,7 @@ This dataset is summer olympics dataset with data collected from the year 1896 t
    8. Performance of India at Summer Olympics<br>
 
 
-## - [Code(Jupyter notebook)](https://raw.githubusercontent.com/shashank8388/EDA/master/Summer%20Olympics%20Data/Shashank_EDA%20project.ipynb "Code(Jupyter notebook)")
+## - [Code(Jupyter notebook)](https://github.com/shashank8388/EDA/blob/master/Summer%20Olympics%20Data/Shashank_EDA%20project.ipynb "Code(Jupyter notebook)")
 
 
 ## - Actionable insights:
